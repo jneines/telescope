@@ -1,1 +1,5 @@
 numpy
+gpiozero
+rpi_hardware_pwm
+async_app
+evdev

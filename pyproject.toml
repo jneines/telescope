@@ -26,7 +26,8 @@ classifiers = [
 ]
 
 [project.entry-points."console_scripts"]
-telescope = "telescope.cli:main"
+js_app = "telescope.js_app:main"
+motor_app = "telescope.motor_app:main"
 
 [project.optional-dependencies]
 all = [
